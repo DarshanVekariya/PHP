@@ -1,0 +1,15 @@
+.deul{
+    width: 35%;
+    padding-top: 10px;
+}
+.dea{
+    /* display: flex; */
+    text-decoration: none;
+}
+#depart{
+    display: flex;
+}
+.depart{
+    padding: 10%;
+    width: 100%;
+}

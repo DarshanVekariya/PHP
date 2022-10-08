@@ -1,0 +1,28 @@
+.form1
+{
+    border: 1px solid blue;
+    border-radius: 8px;
+    padding: 2%;
+    margin: 5% 24%;
+}
+.header
+{
+    text-align: center;
+}
+.red{
+    color: red;
+}
+.btn
+{
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    border-color: white;
+    height: 10%;
+    width: 20%;
+}
+.btn:hover
+{
+ background-color:aquamarine;
+ color: white;
+}

@@ -1,0 +1,36 @@
+.app_table{
+   border: 2px solid blue;
+   border-radius: 5px;
+   margin: 2%;
+   padding: 2%;
+}
+body{
+   justify-content: center;
+}
+.btn{
+   height: 32px;
+   margin:0 0 2% 45%;
+   border: 1px black solid;
+   color:white;
+   border-radius: 10%;
+   background-color: blue;
+}
+.btn:hover{
+   background-color: aqua;
+}
+#acceptbtn{
+   background-color: green;
+   border-color: green;
+}
+#acceptbtn a{
+   text-decoration: none;
+   color: white;
+}
+#cancelbtn{
+   background-color: red;
+   border-color: red;
+} 
+#cancelbtn a{
+   text-decoration: none;
+   color: white;  
+}

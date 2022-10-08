@@ -1,0 +1,58 @@
+#pdiv{
+    background-color: rgb(35, 135, 35);
+    height: 48px;
+    width: 222px;
+    border-radius: 27px;
+    padding:  4px 0 0 113px;
+}
+.div1{
+    margin: 1% 0 1% 20%
+}
+.div2{
+    margin: 1% 0 1% 25%
+}
+.div3{
+    margin: 1% 0 1% 30%
+}
+.div4{
+    margin: 1% 0 1% 35%
+}
+.div5{
+    margin: 1% 0 1% 40%
+}
+.div6{
+    margin: 1% 0 1% 45%
+}
+.div7{
+    margin: 1% 0 1% 50%
+}
+p{
+    color: white;
+}
+.btn{
+    background-color: rgb(69, 72, 72);
+    border: none;
+    height: 40px;
+    width: 9%;
+    border-radius: 40%;
+    margin: 3% 0 0 68%;
+}
+.btn:hover{
+    background-color: green;
+}
+.btn2{
+    background-color: rgb(69, 72, 72);
+    border: none;
+    height: 40px;
+    width: 9%;
+    border-radius: 40%;
+    margin: 3% 0 0 1%;
+}
+.btn2:hover{
+    background-color: green;
+}
+
+.app_table{
+  border-color: blue;
+  margin:1% 0 1% 4%;
+}
